@@ -11,6 +11,7 @@
         "dependencies": {
           "AWSSDK.SecretsManager": "3.7.100.3",
           "Amazon.Lambda.AspNetCoreServer.Hosting": "1.3.0",
+          "MediatR": "11.1.0",
           "Microsoft.EntityFrameworkCore": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
           "Newtonsoft.Json": "13.0.1"
@@ -124,6 +125,25 @@
           "lib/netcoreapp3.1/AWSSDK.SecretsManager.dll": {
             "assemblyVersion": "3.3.0.0",
             "fileVersion": "3.7.100.3"
+          }
+        }
+      },
+      "MediatR/11.1.0": {
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -527,6 +547,20 @@
       "sha512": "sha512-0dLzv+9Nq79xo5vQ19o5C5YD/Lt1d0JQshglfqppK/Vb//stHapnfNFZB6+XrO+A4CQdiTkq/K6IncbrFYhLkA==",
       "path": "awssdk.secretsmanager/3.7.100.3",
       "hashPath": "awssdk.secretsmanager.3.7.100.3.nupkg.sha512"
+    },
+    "MediatR/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIbtrLOyeCuIv8vIuHL/mMdls5xmgS36pIOJDxKZuu55nxA2MI2Z+E/Uk0z+F/LE11AGmpjplOM0NZ91m5LQBA==",
+      "path": "mediatr/11.1.0",
+      "hashPath": "mediatr.11.1.0.nupkg.sha512"
+    },
+    "MediatR.Contracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "path": "mediatr.contracts/1.0.1",
+      "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

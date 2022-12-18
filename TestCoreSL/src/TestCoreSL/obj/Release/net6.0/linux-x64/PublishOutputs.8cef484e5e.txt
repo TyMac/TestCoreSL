@@ -16,6 +16,8 @@ C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Rel
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\AWSSDK.Core.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\AWSSDK.SecretsManager.dll
+C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\MediatR.dll
+C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\MediatR.Contracts.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\Microsoft.Data.SqlClient.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\Microsoft.EntityFrameworkCore.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll

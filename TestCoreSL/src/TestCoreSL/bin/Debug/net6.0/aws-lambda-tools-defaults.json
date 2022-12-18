@@ -12,6 +12,6 @@
     "s3-prefix"     : "TestCoreSL/",
     "template"      : "serverless.template",
     "template-parameters" : "",
-    "s3-bucket"           : "testcoresl",
-    "stack-name"          : "testcoresl"
+    "s3-bucket"           : "testcoresl010",
+    "stack-name"          : "testcoresl010"
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pPikxyOgLWtD9MSCMM5/2ayiR8AkFWeJCV5RX4B7ZG+5cwsjVLCldeNaLp4phvKLPYFr8CVVNeeDcsbKBiV83w==",
+  "dgSpecHash": "JQ0Xm7d43ofD9TOpc0c0ywjq0lVCbq9lDyG0K5JfvVDVE6E/hyqkbPwNl8Q6pxsL0R5Qux06GnjZdq8ZVz6Tcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tyler McAdams\\source\\repos\\TestCoreSL\\TestCoreSL\\src\\TestCoreSL\\TestCoreSL.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,8 @@
     "C:\\Users\\Tyler McAdams\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
     "C:\\Users\\Tyler McAdams\\.nuget\\packages\\awssdk.core\\3.7.100.3\\awssdk.core.3.7.100.3.nupkg.sha512",
     "C:\\Users\\Tyler McAdams\\.nuget\\packages\\awssdk.secretsmanager\\3.7.100.3\\awssdk.secretsmanager.3.7.100.3.nupkg.sha512",
+    "C:\\Users\\Tyler McAdams\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Tyler McAdams\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Tyler McAdams\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Tyler McAdams\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Tyler McAdams\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

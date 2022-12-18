@@ -65,3 +65,5 @@ C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\obj\Deb
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\obj\Debug\net6.0\TestCoreSL.pdb
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\obj\Debug\net6.0\TestCoreSL.genruntimeconfig.cache
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\obj\Debug\net6.0\ref\TestCoreSL.dll
+C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Debug\net6.0\MediatR.dll
+C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Debug\net6.0\MediatR.Contracts.dll

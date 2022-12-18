@@ -51,3 +51,5 @@ C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Rel
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
 C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\linux-x64\MediatR.dll
+C:\Users\Tyler McAdams\source\repos\TestCoreSL\TestCoreSL\src\TestCoreSL\bin\Release\net6.0\linux-x64\MediatR.Contracts.dll
